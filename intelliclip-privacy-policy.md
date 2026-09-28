@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This privacy policy explains the information we collect, how we use and share it, how to manage your privacy controls, and your rights in connection with our website and our macOS application IntelliClip (collectively, the Services). Please also read our [Terms of Use](terms-of-use.md) (the Terms), which set out the terms governing the Services.
+This privacy policy explains the information we collect, how we use and share it, how to manage your privacy controls, and your rights in connection with our website and our macOS application IntelliClip (collectively, the Services). Please also read our [Terms of Use](https://vvaditya23.github.io/legal/intelliclip-terms-of-use) (the Terms), which set out the terms governing the Services.
 
 The Services are provided to you by Aditya Vyavahare (Aditya Vyavahare, we, us or our). We are responsible for the personal information we process about you as described in this policy.
 
@@ -104,7 +104,7 @@ You can submit a request to exercise the above rights by contacting us at [vvadi
 
 ## Legal requirements
 
-We may preserve and share your information with third parties, including law enforcement, public or governmental agencies, or private litigants, within or outside your country of residence, if we determine that such disclosure is allowed by law or reasonably necessary to comply with the law, including to respond to court orders, warrants, subpoenas, or other legal or regulatory process. We may also retain, preserve or disclose your information if we determine that this is reasonably necessary or appropriate to prevent any person from death or serious bodily injury, to address issues of public importance, to prevent or detect violations of our [Terms](terms-of-use.md), or to protect our operations, our property or other legal rights, including by disclosure to our legal counsel and other consultants and third parties in connection with actual or potential litigation.
+We may preserve and share your information with third parties, including law enforcement, public or governmental agencies, or private litigants, within or outside your country of residence, if we determine that such disclosure is allowed by law or reasonably necessary to comply with the law, including to respond to court orders, warrants, subpoenas, or other legal or regulatory process. We may also retain, preserve or disclose your information if we determine that this is reasonably necessary or appropriate to prevent any person from death or serious bodily injury, to address issues of public importance, to prevent or detect violations of our [Terms](https://vvaditya23.github.io/legal/intelliclip-terms-of-use), or to protect our operations, our property or other legal rights, including by disclosure to our legal counsel and other consultants and third parties in connection with actual or potential litigation.
 
 ## Retention of information
 

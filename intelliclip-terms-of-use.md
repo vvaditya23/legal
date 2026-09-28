@@ -1,6 +1,6 @@
 # Terms of Use
 
-These terms of use (the Terms) apply, together with our [Privacy Policy](privacy-policy.md) (the Privacy Policy), to our website and our macOS application IntelliClip (collectively, the Services). The Services are provided to you by Aditya Vyavahare (Aditya Vyavahare, we, us or our).
+These terms of use (the Terms) apply, together with our [Privacy Policy](https://vvaditya23.github.io/legal/intelliclip-privacy-policy) (the Privacy Policy), to our website and our macOS application IntelliClip (collectively, the Services). The Services are provided to you by Aditya Vyavahare (Aditya Vyavahare, we, us or our).
 
 Please read these Terms carefully in order to ensure that you are aware of your rights and obligations when using the Services. By accessing or using the Services, you agree to be bound by these Terms. You can download and print these Terms.
 
